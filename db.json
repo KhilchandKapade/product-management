@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery",
+      "brand": "Boult",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/s/7/f/-original-imahf4qppx6fkxtw.jpeg?q=70&crop=false",
+      "currentPrice": "599",
+      "standardPrice": "999",
+      "discount": "40"
+    },
+    {
+      "id": "2",
+      "name": "Men Self Design Polo Neck Polyester Brown T-Shirt ",
+      "brand": "KAJARU ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/2/d/l/l-polo-8014-kajaru-original-imah75gnqkcp9ytd.jpeg?q=70",
+      "currentPrice": "24",
+      "standardPrice": "49",
+      "discount": "5"
+    },
+    {
+      "id": "3",
+      "name": "Men Colorblock Polo Neck Cotton Blend White T-Shirt",
+      "brand": "Outlander ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/w/w/b/m-t17-outlander-original-imah6g3ht4ckhrpa.jpeg?q=70",
+      "currentPrice": "299",
+      "standardPrice": "1299",
+      "discount": "60"
+    },
+    {
+      "id": "4",
+      "name": "Men Solid Round Neck Polycotton Maroon T-Shirt ",
+      "brand": "MAX",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/1/t/xl-su23ltsscn01burgundy-max-original-imagzzts7vqzpcsw.jpeg?q=70",
+      "currentPrice": "299",
+      "standardPrice": "999",
+      "discount": "70"
+    },
+    {
+      "id": "5",
+      "name": "Men Colorblock Round Neck Pure Cotton Multicolor T-Shirt",
+      "brand": "Kroptee ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/e/v/q/m-krt-sweat-t-women-c-block-0702-wht-sky-black-fl-r-size-m-original-imagu8zpqgyyc2hr.jpeg?q=70",
+      "currentPrice": "299",
+      "standardPrice": "999",
+      "discount": "70"
+    },
+    {
+      "id": "6",
+      "name": "Oversized Men Tie & Dye Round Neck Cotton Blend Blue, White T-Shirt",
+      "brand": "Starvy ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/b/m/v/m-t16-allover-print-blue-starvy-original-imah9gz5xgwndbpr.jpeg?q=70",
+      "currentPrice": "274",
+      "standardPrice": "1299",
+      "discount": "70"
+    },
+    {
+      "id": "7",
+      "name": "Men T-shrt Neck Pure Cotton Multicolor T-Shirt",
+      "brand": "Tea",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/a/c/m-tx-1-sti-original-imah7uuwkhqwpuhe.jpeg?q=70",
+      "currentPrice": "599",
+      "standardPrice": "1000",
+      "discount": "40"
+    }
+  ]
+}
